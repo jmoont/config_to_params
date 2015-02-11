@@ -9,6 +9,8 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="1.0.0" date="2015-02-01" min="2.5" />
+		<release version="1.0.0" date="2015-02-01" min="2.5">
+            - First release
+        </release>
 	</releases>
 </extension>
