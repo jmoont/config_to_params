@@ -1,4 +1,4 @@
-# config_to_params
+# Config to Params
 Adds a selected config setting to the params object for Symphony CMS.
 
 ## Installation

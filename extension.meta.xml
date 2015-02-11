@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension id="config_to_params" xmlns="http://getsymphony.com/schemas/extension/1.0">
+<extension id="config_to_params" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
 	<name>Config to Params</name>
 	<description>Adds a selected config setting to the params object.</description>
 	<repo type="github">https://github.com/jmoont/config_to_params</repo>
 	<authors>
 		<author>
-			<name github="jmoont">Josh Moont</name>
+			<name github="jmoont" symphony="">Josh Moont</name>
 		</author>
 	</authors>
 	<releases>
